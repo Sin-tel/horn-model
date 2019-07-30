@@ -8,5 +8,5 @@ made with love2d. to run this:
 
 
 
-play notes using top row of keyboard (qwertyui whtie notes, 23 567 black notes)
+play notes using top row of keyboard (qwertyui white notes, 23 567 black notes)
 mouse x position controls intensity
